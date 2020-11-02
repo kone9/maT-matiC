@@ -1,0 +1,5 @@
+El objetivo es resolver una operación matemática (suma-resta-multiplicación-división), cuya resultado está definido.
+Hay un tablero con números dentro de "burbujas"... cada burbuja tiene un número (del 1 al 9). En cada partida, se indica una operación matemática y el resultado, y debe resolverse "pinchando" las burbujas que sean necesarias hasta llegar al número correcto. Las operaciones son definidas previamente y no se puede usar otra que no sea la indicada.
+Las operaciones pueden ser simples o compuestas (más de una operación, como por ej. suma+división, suma+multiplicación, suma+multiplicación+división+resta). 
+Cada burbuja que se pincha desaparece del tablero y las demás burbujas se van acomodando, como si estuvieran en un recipiente vacío. Cada 30 segundos se llena el recipiente de burbujas. Cada operación resuelta da puntaje, y el juego se termina cuando en 30 segundos no se resuelve la operación.
+Te lo resumo un poco, pero básicamente se trata de algo así... ahora te paso un boceto para que lo entiendas un poco más
