@@ -1,7 +1,247 @@
 fileFormatVersion: 2
 guid: 70c3fded841bfb26993dd957e38c0d86
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 2550785988375518835
+    second: MAT_MATIC_elementos_portada_0
+  - first:
+      213: -2608924648259572075
+    second: MAT_MATIC_elementos_portada_1
+  - first:
+      213: -6909690395388372674
+    second: MAT_MATIC_elementos_portada_2
+  - first:
+      213: 8694507796464023018
+    second: MAT_MATIC_elementos_portada_3
+  - first:
+      213: 1805935435089153992
+    second: MAT_MATIC_elementos_portada_4
+  - first:
+      213: -8835409281056737557
+    second: MAT_MATIC_elementos_portada_5
+  - first:
+      213: 7147981333117965729
+    second: MAT_MATIC_elementos_portada_6
+  - first:
+      213: -6832020602116348090
+    second: MAT_MATIC_elementos_portada_7
+  - first:
+      213: -150708906537599686
+    second: MAT_MATIC_elementos_portada_8
+  - first:
+      213: -6502032943129692165
+    second: MAT_MATIC_elementos_portada_9
+  - first:
+      213: 6863268460357703395
+    second: MAT_MATIC_elementos_portada_10
+  - first:
+      213: -597960408821803979
+    second: MAT_MATIC_elementos_portada_11
+  - first:
+      213: 4350414112656975841
+    second: MAT_MATIC_elementos_portada_12
+  - first:
+      213: -1860670120858707362
+    second: MAT_MATIC_elementos_portada_13
+  - first:
+      213: 6807581441487053875
+    second: MAT_MATIC_elementos_portada_14
+  - first:
+      213: 7951087103309610298
+    second: MAT_MATIC_elementos_portada_15
+  - first:
+      213: 3518858250621989295
+    second: MAT_MATIC_elementos_portada_16
+  - first:
+      213: 2276061360286490555
+    second: MAT_MATIC_elementos_portada_17
+  - first:
+      213: 5163482429295775652
+    second: MAT_MATIC_elementos_portada_18
+  - first:
+      213: 8645178751300979201
+    second: MAT_MATIC_elementos_portada_19
+  - first:
+      213: 7291582248184496818
+    second: MAT_MATIC_elementos_portada_20
+  - first:
+      213: 1765765361329668168
+    second: MAT_MATIC_elementos_portada_21
+  - first:
+      213: 3627509896738298789
+    second: MAT_MATIC_elementos_portada_22
+  - first:
+      213: 8688543223849099283
+    second: MAT_MATIC_elementos_portada_23
+  - first:
+      213: -1228344003377700572
+    second: MAT_MATIC_elementos_portada_24
+  - first:
+      213: -6335743846058612155
+    second: MAT_MATIC_elementos_portada_25
+  - first:
+      213: 1928529300766864738
+    second: MAT_MATIC_elementos_portada_26
+  - first:
+      213: 5328039949995020987
+    second: MAT_MATIC_elementos_portada_27
+  - first:
+      213: 8190674088809749526
+    second: MAT_MATIC_elementos_portada_28
+  - first:
+      213: 459196031793719861
+    second: MAT_MATIC_elementos_portada_29
+  - first:
+      213: 4467344657214649685
+    second: MAT_MATIC_elementos_portada_30
+  - first:
+      213: 1650076419851459225
+    second: MAT_MATIC_elementos_portada_31
+  - first:
+      213: 2499588467451577470
+    second: MAT_MATIC_elementos_portada_32
+  - first:
+      213: -7745191853681674414
+    second: MAT_MATIC_elementos_portada_33
+  - first:
+      213: -3652770168629040063
+    second: MAT_MATIC_elementos_portada_34
+  - first:
+      213: 6187254785336727575
+    second: MAT_MATIC_elementos_portada_35
+  - first:
+      213: 1670581189167224552
+    second: MAT_MATIC_elementos_portada_36
+  - first:
+      213: 1063147530109971295
+    second: MAT_MATIC_elementos_portada_37
+  - first:
+      213: 7581285125033953433
+    second: MAT_MATIC_elementos_portada_38
+  - first:
+      213: -970589639884924124
+    second: MAT_MATIC_elementos_portada_39
+  - first:
+      213: -5547702750975158540
+    second: MAT_MATIC_elementos_portada_40
+  - first:
+      213: 1519187671522242713
+    second: MAT_MATIC_elementos_portada_41
+  - first:
+      213: -9163456909140403376
+    second: MAT_MATIC_elementos_portada_42
+  - first:
+      213: -2486790503653740431
+    second: MAT_MATIC_elementos_portada_43
+  - first:
+      213: -3399346588717875197
+    second: MAT_MATIC_elementos_portada_44
+  - first:
+      213: -848386524869777197
+    second: MAT_MATIC_elementos_portada_45
+  - first:
+      213: 7169643554733502862
+    second: MAT_MATIC_elementos_portada_46
+  - first:
+      213: 6469092204499796424
+    second: MAT_MATIC_elementos_portada_47
+  - first:
+      213: 7803805295130798446
+    second: MAT_MATIC_elementos_portada_48
+  - first:
+      213: 8570156821991826352
+    second: MAT_MATIC_elementos_portada_49
+  - first:
+      213: -1826436250428125063
+    second: MAT_MATIC_elementos_portada_50
+  - first:
+      213: -7673381850255546903
+    second: MAT_MATIC_elementos_portada_51
+  - first:
+      213: 2288291972181694184
+    second: MAT_MATIC_elementos_portada_52
+  - first:
+      213: -7305106741566927225
+    second: MAT_MATIC_elementos_portada_53
+  - first:
+      213: -2530050904654838155
+    second: MAT_MATIC_elementos_portada_54
+  - first:
+      213: 8138561547372950502
+    second: MAT_MATIC_elementos_portada_55
+  - first:
+      213: -3075949996658327382
+    second: MAT_MATIC_elementos_portada_56
+  - first:
+      213: 2682844386839035890
+    second: MAT_MATIC_elementos_portada_57
+  - first:
+      213: 5621352823802106461
+    second: MAT_MATIC_elementos_portada_58
+  - first:
+      213: 728475143396575430
+    second: MAT_MATIC_elementos_portada_59
+  - first:
+      213: -7754102450301369317
+    second: MAT_MATIC_elementos_portada_60
+  - first:
+      213: -8018207916911240394
+    second: MAT_MATIC_elementos_portada_61
+  - first:
+      213: 163823362976452952
+    second: MAT_MATIC_elementos_portada_62
+  - first:
+      213: 171017555379104221
+    second: MAT_MATIC_elementos_portada_63
+  - first:
+      213: 1174656126055798460
+    second: MAT_MATIC_elementos_portada_64
+  - first:
+      213: 3196613598741867913
+    second: MAT_MATIC_elementos_portada_65
+  - first:
+      213: -2034821558476996544
+    second: MAT_MATIC_elementos_portada_66
+  - first:
+      213: -9180337347671800116
+    second: MAT_MATIC_elementos_portada_67
+  - first:
+      213: -6491769894235838389
+    second: MAT_MATIC_elementos_portada_68
+  - first:
+      213: -4180665122257237301
+    second: MAT_MATIC_elementos_portada_69
+  - first:
+      213: -7000395880518045175
+    second: MAT_MATIC_elementos_portada_70
+  - first:
+      213: 8485395699782405710
+    second: MAT_MATIC_elementos_portada_71
+  - first:
+      213: -4999437534474524608
+    second: MAT_MATIC_elementos_portada_72
+  - first:
+      213: 1689513200072689330
+    second: MAT_MATIC_elementos_portada_73
+  - first:
+      213: 1083585681058930070
+    second: MAT_MATIC_elementos_portada_74
+  - first:
+      213: -2740078282973602501
+    second: MAT_MATIC_elementos_portada_75
+  - first:
+      213: 872147418777545240
+    second: MAT_MATIC_elementos_portada_76
+  - first:
+      213: -2267659174334283196
+    second: MAT_MATIC_elementos_portada_77
+  - first:
+      213: 1345784558326567204
+    second: MAT_MATIC_elementos_portada_78
+  - first:
+      213: 4929010904631568956
+    second: MAT_MATIC_elementos_portada_79
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +280,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +311,1737 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 357
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e9a2f7756366320800000000000000
+      internalID: 2550785988375518835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 384
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e2ab6eadc3bcbd0800000000000000
+      internalID: -2608924648259572075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 367
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3992fac139db10a0800000000000000
+      internalID: -6909690395388372674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 357
+        width: 98
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae53a1186c819a870800000000000000
+      internalID: 8694507796464023018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_4
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 383
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf87cfb5b8ff0910800000000000000
+      internalID: 1805935435089153992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_5
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 367
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be67c652212526580800000000000000
+      internalID: -8835409281056737557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_6
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 357
+        width: 36
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a59e9d962bb23360800000000000000
+      internalID: 7147981333117965729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_7
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 358
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64764b0c579cf21a0800000000000000
+      internalID: -6832020602116348090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 268
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3db6594c0398edf0800000000000000
+      internalID: -150708906537599686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 268
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7fddacc7324c5a0800000000000000
+      internalID: -6502032943129692165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 300
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e653c13d4a3f3f50800000000000000
+      internalID: 6863268460357703395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_11
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 300
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534dd622d2e93b7f0800000000000000
+      internalID: -597960408821803979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_12
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 269
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7e3c20696cf5c30800000000000000
+      internalID: 4350414112656975841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_13
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 269
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a980222629d26e0800000000000000
+      internalID: -1860670120858707362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 269
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334a06fb043697e50800000000000000
+      internalID: 6807581441487053875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 268
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d75f2089fe75e60800000000000000
+      internalID: 7951087103309610298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_16
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 269
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1b64b6fee75d030800000000000000
+      internalID: 3518858250621989295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_17
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 268
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf5ed28fb1369f10800000000000000
+      internalID: 2276061360286490555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 269
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af452289ef58a740800000000000000
+      internalID: 5163482429295775652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 268
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10acc0b2548d9f770800000000000000
+      internalID: 8645178751300979201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_20
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 269
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2c4991c67e03560800000000000000
+      internalID: 7291582248184496818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_21
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 269
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8408ebe9d32418810800000000000000
+      internalID: 1765765361329668168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_22
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 269
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abdc4e1801875230800000000000000
+      internalID: 3627509896738298789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_23
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 268
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31027293708e39870800000000000000
+      internalID: 8688543223849099283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_24
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 238
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421e0b013ab04fee0800000000000000
+      internalID: -1228344003377700572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_25
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 207
+        width: 8
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a2fcb4a8ae218a0800000000000000
+      internalID: -6335743846058612155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_26
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 206
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26534276e2383ca10800000000000000
+      internalID: 1928529300766864738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_27
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 207
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb21b88fa1001f940800000000000000
+      internalID: 5328039949995020987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_28
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 207
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c508e00be1ba170800000000000000
+      internalID: 8190674088809749526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_29
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 207
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a6555ab546f5600800000000000000
+      internalID: 459196031793719861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_30
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 206
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555b486fb423ffd30800000000000000
+      internalID: 4467344657214649685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_31
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 145
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a9e79e2cf36e610800000000000000
+      internalID: 1650076419851459225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_32
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e744d1fb77250b220800000000000000
+      internalID: 2499588467451577470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_33
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 145
+        width: 8
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257fd0c7b0d838490800000000000000
+      internalID: -7745191853681674414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_34
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 145
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ce8b482e0ce4dc0800000000000000
+      internalID: -3652770168629040063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_35
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 145
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718d4de127b8dd550800000000000000
+      internalID: 6187254785336727575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 146
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e613cc8db81f2710800000000000000
+      internalID: 1670581189167224552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_37
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 146
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5be90cbb0f01ce00800000000000000
+      internalID: 1063147530109971295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_38
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 145
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9980a9267a2263960800000000000000
+      internalID: 7581285125033953433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_39
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 146
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b1cfb6dd5c782f0800000000000000
+      internalID: -970589639884924124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_40
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 145
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f61ba0bdb99203b0800000000000000
+      internalID: -5547702750975158540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_41
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 145
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9907c34632d351510800000000000000
+      internalID: 1519187671522242713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_42
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 145
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b5610cd7cd4d080800000000000000
+      internalID: -9163456909140403376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_43
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 145
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17077e666352d7dd0800000000000000
+      internalID: -2486790503653740431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_44
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 82
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300090fb94813d0d0800000000000000
+      internalID: -3399346588717875197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 82
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8a8e853fce934f0800000000000000
+      internalID: -848386524869777197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_46
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 71
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e813f0e93d0bf7360800000000000000
+      internalID: 7169643554733502862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_47
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 64
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c18574d515d6c950800000000000000
+      internalID: 6469092204499796424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_48
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 64
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e696590d19fac4c60800000000000000
+      internalID: 7803805295130798446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_49
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 64
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3a63419305fe670800000000000000
+      internalID: 8570156821991826352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 64
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970d55838e137a6e0800000000000000
+      internalID: -1826436250428125063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_51
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 64
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5a69dccdba28590800000000000000
+      internalID: -7673381850255546903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_52
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 64
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e69440cc65a1cf10800000000000000
+      internalID: 2288291972181694184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_53
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 64
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e87966f1c0f9a90800000000000000
+      internalID: -7305106741566927225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 60
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57684646b1473ecd0800000000000000
+      internalID: -2530050904654838155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 64
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e371dd7b9af1f070800000000000000
+      internalID: 8138561547372950502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_56
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 64
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0015e66c70055d0800000000000000
+      internalID: -3075949996658327382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_57
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 60
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fff03961c06b3520800000000000000
+      internalID: 2682844386839035890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_58
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 64
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d521ddb2c9e030e40800000000000000
+      internalID: 5621352823802106461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_59
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 64
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8cad588401c1a00800000000000000
+      internalID: 728475143396575430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_60
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 5
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b140dc987e4e36490800000000000000
+      internalID: -7754102450301369317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bd741c16a99b090800000000000000
+      internalID: -8018207916911240394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 18
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8511f1c0b74064200800000000000000
+      internalID: 163823362976452952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_63
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 5
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd92abe7f839f5200800000000000000
+      internalID: 171017555379104221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_64
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 5
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6dac6e5873d4010800000000000000
+      internalID: 1174656126055798460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_65
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 18
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d2135b127ac5c20800000000000000
+      internalID: 3196613598741867913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_66
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 18
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0400ca1d29cd2c3e0800000000000000
+      internalID: -2034821558476996544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 5
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc645c162d3e89080800000000000000
+      internalID: -9180337347671800116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_68
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 5
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b486f721da998e5a0800000000000000
+      internalID: -6491769894235838389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_69
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 5
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca0efea83b4bf5c0800000000000000
+      internalID: -4180665122257237301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_70
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 5
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9023d9e490999de90800000000000000
+      internalID: -7000395880518045175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_71
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e48207e6e22c570800000000000000
+      internalID: 8485395699782405710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_72
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 5
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04824e0fc0e6e9ab0800000000000000
+      internalID: -4999437534474524608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_73
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 5
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b68aa5dd4b527710800000000000000
+      internalID: 1689513200072689330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_74
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 5
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d97339f6ba90f00800000000000000
+      internalID: 1083585681058930070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_75
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 5
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d9896b15949f9d0800000000000000
+      internalID: -2740078282973602501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_76
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 5
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a6200e47d7a1c00800000000000000
+      internalID: 872147418777545240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_77
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 5
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442462adef7a780e0800000000000000
+      internalID: -2267659174334283196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_78
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 5
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421d24fecef2da210800000000000000
+      internalID: 1345784558326567204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAT_MATIC_elementos_portada_79
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 5
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a67908d4d576440800000000000000
+      internalID: 4929010904631568956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

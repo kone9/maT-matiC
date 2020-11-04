@@ -5,7 +5,7 @@ using UnityEngine;
 public class InstanciarNumeros : MonoBehaviour
 {
     public GameObject[] numeros;//cargo todos los gameObject numeros
-
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -18,8 +18,8 @@ public class InstanciarNumeros : MonoBehaviour
                 //instancia el número de forma aleatoria en una posición
                 GameObject numero = Instantiate(numeros[indiceAleatorioDeNumeros],new Vector3
                         (
-                            (1.25f+(-0.5f*x)),//acomoda en el eje X
-                            (1.25f+(-0.5f*y)),//Acomoda en el eje y
+                            (-2.5f+(1f*x)),//acomoda en el eje X
+                            (-2.5f+(1f*y - 1)),//Acomoda en el eje y
                             0
                         ),
                         Quaternion.identity
