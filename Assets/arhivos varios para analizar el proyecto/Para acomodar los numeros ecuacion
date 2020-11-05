@@ -1,3 +1,5 @@
 Para acomodar lo números automáticamente
 1.25+(-0.5*1))-----> Escalado normal
 -2.5+(1*0))-------> Escalado por 2
+
+-100+(40*1)-------> Escalado para UI eje "X"
