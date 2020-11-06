@@ -32,7 +32,7 @@ public class InstanciarNumeros : MonoBehaviour
                     );
                 numero.GetComponent<RectTransform>().localScale = new Vector3(1.2f,1.2f,0);//para que todos los botones tengan el mismo tamaño
                 
-                print(numero.GetComponent<RectTransform>().localPosition);
+                //print(numero.GetComponent<RectTransform>().localPosition);
             }
         }
         

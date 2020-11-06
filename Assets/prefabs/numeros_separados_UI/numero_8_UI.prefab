@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8184206101534137683}
   - component: {fileID: 8184206101534137682}
   - component: {fileID: 8184206101534137681}
+  - component: {fileID: 934562437}
   m_Layer: 5
   m_Name: numero_8_UI
   m_TagString: Untagged
@@ -120,4 +121,27 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 8184206101534137682}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 934562437}
+        m_MethodName: Ocho
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &934562437
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8184206101534137687}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98d188d48eb3835979a3c3240801fb35, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
