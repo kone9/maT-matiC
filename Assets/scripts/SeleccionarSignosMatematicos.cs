@@ -24,7 +24,7 @@ public class SeleccionarSignosMatematicos : MonoBehaviour
     void Start()
     {
         manejadorJuego = FindObjectOfType<ManejadorJuego>();
-        SeleccionarSigno(estadoOperacionSeleccionada.SUMA);//De prueba inicio con multiplicación
+        SeleccionarSigno(estadoOperacionSeleccionada.MULTIPLICACION);//De prueba inicio con multiplicación
         //IniciarSignoFormaAleatoria();//Para iniciar los signos de forma aleatoria
     }
 

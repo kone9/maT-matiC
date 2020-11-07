@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Numeros : MonoBehaviour
 {
@@ -23,6 +24,7 @@ public class Numeros : MonoBehaviour
     //tengo que mejorar el código sin embargo asi se entiende el problema
     public void Uno()
     {
+        this.gameObject.GetComponent<Button>().interactable = false;//hace que el boton ya no pueda volver a ser presionado
         if(manejadorjuego.OperacionARealizar == operacionMatematica.SUMA)
         {
             manejadorjuego.calcularResultado += 1;
@@ -33,22 +35,20 @@ public class Numeros : MonoBehaviour
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.MULTIPLIACION)
         {
-            manejadorjuego.calcularResultado *= 1;
+            manejadorjuego.calcularResultado = manejadorjuego.calcularResultado * 1;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.DIVISION)
         {
-            manejadorjuego.calcularResultado /= 1;
+            manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 1;
         }
     }
+
     public void Dos()
     {
-        
-        print("presione dos");
-        print(manejadorjuego.OperacionARealizar);
+        this.gameObject.GetComponent<Button>().interactable = false;//hace que el boton ya no pueda volver a ser presionado
         if(manejadorjuego.OperacionARealizar == operacionMatematica.SUMA)
         {
             manejadorjuego.calcularResultado += 2;
-            print(manejadorjuego.calcularResultado);
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.RESTA)
         {
@@ -56,145 +56,152 @@ public class Numeros : MonoBehaviour
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.MULTIPLIACION)
         {
-            manejadorjuego.calcularResultado *= 2;
-            
+            manejadorjuego.calcularResultado = manejadorjuego.calcularResultado * 2;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.DIVISION)
         {
-            manejadorjuego.calcularResultado /= 2;
+            manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 2;
         }
     }
+
     public void Tres()
     {
+        this.gameObject.GetComponent<Button>().interactable = false;//hace que el boton ya no pueda volver a ser presionado
         if(manejadorjuego.OperacionARealizar == operacionMatematica.SUMA)
         {
-            manejadorjuego.calcularResultado += 2;
+            manejadorjuego.calcularResultado += 3;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.RESTA)
         {
-            manejadorjuego.calcularResultado -= 2;
+            manejadorjuego.calcularResultado -= 3;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.MULTIPLIACION)
         {
-            manejadorjuego.calcularResultado *= 2;
+            manejadorjuego.calcularResultado = manejadorjuego.calcularResultado * 3;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.DIVISION)
         {
-            manejadorjuego.calcularResultado /= 2;
+            manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 3;
         }
     }
     public void Cuatro()
     {
-         if(manejadorjuego.OperacionARealizar == operacionMatematica.SUMA)
+        this.gameObject.GetComponent<Button>().interactable = false;//hace que el boton ya no pueda volver a ser presionado
+        if(manejadorjuego.OperacionARealizar == operacionMatematica.SUMA)
         {
-            manejadorjuego.calcularResultado += 2;
+            manejadorjuego.calcularResultado += 4;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.RESTA)
         {
-            manejadorjuego.calcularResultado -= 2;
+            manejadorjuego.calcularResultado -= 4;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.MULTIPLIACION)
         {
-            manejadorjuego.calcularResultado *= 2;
+            manejadorjuego.calcularResultado = manejadorjuego.calcularResultado * 4;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.DIVISION)
         {
-            manejadorjuego.calcularResultado /= 2;
+            manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 4;
         }
     }
     public void Cinco()
     {
-         if(manejadorjuego.OperacionARealizar == operacionMatematica.SUMA)
+        this.gameObject.GetComponent<Button>().interactable = false;//hace que el boton ya no pueda volver a ser presionado
+        if(manejadorjuego.OperacionARealizar == operacionMatematica.SUMA)
         {
-            manejadorjuego.calcularResultado += 2;
+            manejadorjuego.calcularResultado += 5;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.RESTA)
         {
-            manejadorjuego.calcularResultado -= 2;
+            manejadorjuego.calcularResultado -= 5;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.MULTIPLIACION)
         {
-            manejadorjuego.calcularResultado *= 2;
+            manejadorjuego.calcularResultado = manejadorjuego.calcularResultado * 5;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.DIVISION)
         {
-            manejadorjuego.calcularResultado /= 2;
+            manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 5;
         }
     }
     public void Seis()
     {
-         if(manejadorjuego.OperacionARealizar == operacionMatematica.SUMA)
+        this.gameObject.GetComponent<Button>().interactable = false;//hace que el boton ya no pueda volver a ser presionado
+        if(manejadorjuego.OperacionARealizar == operacionMatematica.SUMA)
         {
-            manejadorjuego.calcularResultado += 2;
+            manejadorjuego.calcularResultado += 6;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.RESTA)
         {
-            manejadorjuego.calcularResultado -= 2;
+            manejadorjuego.calcularResultado -= 6;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.MULTIPLIACION)
         {
-            manejadorjuego.calcularResultado *= 2;
+            manejadorjuego.calcularResultado = manejadorjuego.calcularResultado * 6;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.DIVISION)
         {
-            manejadorjuego.calcularResultado /= 2;
+            manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 6;
         }
     }
     public void Siete()
     {
-          if(manejadorjuego.OperacionARealizar == operacionMatematica.SUMA)
+        this.gameObject.GetComponent<Button>().interactable = false;//hace que el boton ya no pueda volver a ser presionado
+        if(manejadorjuego.OperacionARealizar == operacionMatematica.SUMA)
         {
-            manejadorjuego.calcularResultado += 2;
+            manejadorjuego.calcularResultado += 7;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.RESTA)
         {
-            manejadorjuego.calcularResultado -= 2;
+            manejadorjuego.calcularResultado -= 7;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.MULTIPLIACION)
         {
-            manejadorjuego.calcularResultado *= 2;
+            manejadorjuego.calcularResultado = manejadorjuego.calcularResultado * 7;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.DIVISION)
         {
-            manejadorjuego.calcularResultado /= 2;
+            manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 7;
         }
     }
     public void Ocho()
     {
-         if(manejadorjuego.OperacionARealizar == operacionMatematica.SUMA)
+        this.gameObject.GetComponent<Button>().interactable = false;//hace que el boton ya no pueda volver a ser presionado
+        if(manejadorjuego.OperacionARealizar == operacionMatematica.SUMA)
         {
-            manejadorjuego.calcularResultado += 2;
+            manejadorjuego.calcularResultado += 8;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.RESTA)
         {
-            manejadorjuego.calcularResultado -= 2;
+            manejadorjuego.calcularResultado -= 8;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.MULTIPLIACION)
         {
-            manejadorjuego.calcularResultado *= 2;
+            manejadorjuego.calcularResultado = manejadorjuego.calcularResultado * 8;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.DIVISION)
         {
-            manejadorjuego.calcularResultado /= 2;
+            manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 8;
         }
     }
     public void Nueve()
     {
-         if(manejadorjuego.OperacionARealizar == operacionMatematica.SUMA)
+        this.gameObject.GetComponent<Button>().interactable = false;//hace que el boton ya no pueda volver a ser presionado
+        if(manejadorjuego.OperacionARealizar == operacionMatematica.SUMA)
         {
-            manejadorjuego.calcularResultado += 2;
+            manejadorjuego.calcularResultado += 9;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.RESTA)
         {
-            manejadorjuego.calcularResultado -= 2;
+            manejadorjuego.calcularResultado -= 9;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.MULTIPLIACION)
         {
-            manejadorjuego.calcularResultado *= 2;
+            manejadorjuego.calcularResultado = manejadorjuego.calcularResultado * 9;
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.DIVISION)
         {
-            manejadorjuego.calcularResultado /= 2;
+            manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 9;
         }
     }
 }
