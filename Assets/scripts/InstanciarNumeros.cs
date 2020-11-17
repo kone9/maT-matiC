@@ -7,15 +7,20 @@ public class InstanciarNumeros : MonoBehaviour
 {
     public GameObject[] numeros;//cargo todos los gameObject numeros
     private GameObject canvas;
+
+    [SerializeField] int CantX = 6;//cantidad de numeros en eje X
+    [SerializeField] int CantY = 6;//cantidad de numeros en eje y
+
+    
     // Start is called before the first frame update
     void Start()
     {
         canvas = GameObject.FindGameObjectWithTag("canvas");//busco el objeto que tiene etiqueta canvas importante para hacer hijos a los números instanciados
 
         //Este es un doble bucle para posicionar en el eje Y y X
-        for (int y = 0; y < 6; y++)//repite seis veces en el eje Y
+        for (int y = 0; y < CantX; y++)//repite seis veces en el eje Y
         {
-            for (int x = 0; x < 6; x++)//repite seis veces en el eje X
+            for (int x = 0; x < CantY; x++)//repite seis veces en el eje X
             {
                 int indiceAleatorioDeNumeros = Random.Range(0,numeros.Length);//obtiene un indice aleatorio desde cero hasta la cantidad de objetos del arreglo de números
                 //instancia el número de forma aleatoria en una posición

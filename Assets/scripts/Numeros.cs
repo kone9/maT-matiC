@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class Numeros : MonoBehaviour
 {
     private ManejadorJuego manejadorjuego;
+    [SerializeField]private float tiempoAntesDeDesaparecerFicha = 1.0f;
     // Start is called before the first frame update
     void Start()
     {
@@ -41,6 +42,7 @@ public class Numeros : MonoBehaviour
         {
             manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 1;
         }
+        
     }
 
     public void Dos()
@@ -62,6 +64,7 @@ public class Numeros : MonoBehaviour
         {
             manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 2;
         }
+        
     }
 
     public void Tres()
@@ -83,6 +86,7 @@ public class Numeros : MonoBehaviour
         {
             manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 3;
         }
+        
     }
     public void Cuatro()
     {
@@ -103,6 +107,7 @@ public class Numeros : MonoBehaviour
         {
             manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 4;
         }
+        
     }
     public void Cinco()
     {
@@ -123,6 +128,7 @@ public class Numeros : MonoBehaviour
         {
             manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 5;
         }
+        
     }
     public void Seis()
     {
@@ -143,6 +149,7 @@ public class Numeros : MonoBehaviour
         {
             manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 6;
         }
+        
     }
     public void Siete()
     {
@@ -163,6 +170,7 @@ public class Numeros : MonoBehaviour
         {
             manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 7;
         }
+        
     }
     public void Ocho()
     {
@@ -183,6 +191,7 @@ public class Numeros : MonoBehaviour
         {
             manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 8;
         }
+        
     }
     public void Nueve()
     {
@@ -203,5 +212,12 @@ public class Numeros : MonoBehaviour
         {
             manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 9;
         }
+        
+    }
+
+    IEnumerator DestruirGameObject()
+    {
+        yield return new WaitForSeconds(tiempoAntesDeDesaparecerFicha);
+        Destroy(this.gameObject);
     }
 }
