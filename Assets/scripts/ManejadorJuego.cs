@@ -28,7 +28,7 @@ public class ManejadorJuego : MonoBehaviour
     public operacionMatematica OperacionARealizar;//para determinar en varios lados si tengo que sumar/restar/dividir/multiplicar
     public bool gameOver = false;//si es game over o no,esto lo determina el timer
 
-
+    
 
     /// <summary>Obtiene una posición en la grilla en base a la posición de un objeto.</summary>
     /// <param name="posicion">Ingresar la posición donde se encuentra el objeto</param>

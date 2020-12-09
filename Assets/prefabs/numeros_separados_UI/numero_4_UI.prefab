@@ -13,6 +13,8 @@ GameObject:
   - component: {fileID: 7946763447801124261}
   - component: {fileID: 7946763447801124262}
   - component: {fileID: 1744790153}
+  - component: {fileID: 1442434342}
+  - component: {fileID: 4005097218308866163}
   m_Layer: 5
   m_Name: numero_4_UI
   m_TagString: Untagged
@@ -146,3 +148,32 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tiempoAntesDeDesaparecerFicha: 0.2
+--- !u!114 &1442434342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7946763447801124256}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15c63bd905b5e2c9ca3719603888f389, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lenghtRay: 100
+--- !u!58 &4005097218308866163
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7946763447801124256}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 16

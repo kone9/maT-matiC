@@ -17,7 +17,7 @@ public class CalcularResultado : MonoBehaviour
     {
         if(manejadorjuego.gameOver == false)
         {
-            print(manejadorjuego.calcularResultado);
+            //print(manejadorjuego.calcularResultado);
         }
 
     }

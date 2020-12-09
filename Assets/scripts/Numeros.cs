@@ -29,18 +29,22 @@ public class Numeros : MonoBehaviour
         if(manejadorjuego.OperacionARealizar == operacionMatematica.SUMA)
         {
             manejadorjuego.calcularResultado += 1;
+            
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.RESTA)
         {
             manejadorjuego.calcularResultado -= 1;
+           
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.MULTIPLIACION)
         {
             manejadorjuego.calcularResultado = manejadorjuego.calcularResultado * 1;
+            
         }
         if(manejadorjuego.OperacionARealizar == operacionMatematica.DIVISION)
         {
             manejadorjuego.calcularResultado = manejadorjuego.calcularResultado / 1;
+            
         }
         
     }

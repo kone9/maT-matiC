@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - canvas
+  - MAT_MATIC_fondo
   layers:
   - Default
   - TransparentFX
